@@ -30,7 +30,7 @@
             Console.Write("변환된 화씨 온도: {0}", (int)num2);
             */
 
-            //BMI 계산기 만들기
+            /*BMI 계산기 만들기
             Console.Write("키(m) : ");
             double num1 = double.Parse(Console.ReadLine());
             Console.Write("몸무게(kg) : ");
@@ -38,7 +38,7 @@
             double num3 = num2 / num1;
             num3 = num2 / (num1 * num1);
             Console.WriteLine("BMI : {0}", num3);
-
+            */
         }
     }
 }
